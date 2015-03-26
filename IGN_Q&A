@@ -1,3 +1,9 @@
+Sean Nguyen
+Ezra Gere
+Juana Michel
+Edward Espinal
+casGaming
+
 <p>1. Dominate is a mobile app, created by IGN that will allow users to share their gaming experiences with others.  In addition to being a mobile app, users will also be able to share via a PC Console and is in the works of being available on multiple platofrms and social media.  The developers chose to use PhoneGap becuase of its mobile platofrom availability and its device specific functions.  
 2.Cordova (PhoneGap) was chosen becuase it allows you to quickly build mobile applications and easily compile them without SDKs, compilers and hardware
 3.IGN developers used Phonegap, Sencha to develop Dominate, an application that functions as a native application although it is a cross platform application. The developers used JavaScript and used the aforementioned application to translate their code for use on a variety of mobile devices and personal computers. 
