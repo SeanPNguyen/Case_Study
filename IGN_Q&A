@@ -1,8 +1,8 @@
-<p>1. 
+<p>1. Dominate is a mobile app, created by IGN that will allow users to share their gameing experiences with others.  In addition to being a mobile app, users will also be able to share via a PC Console and is in the works of being available on multiple platofrms and social media.  The developers chose to use PhoneGap becuase of its mobile platofrom availability and its device specific functions.  
 2.
 3.
 4.
-5. This app was developed as a mobile app by IGN; which is currently avaiable for iPhone, iPod Touch and iPad. 
+5. This app was developed as a mobile app by IGN; which is currently avaiable for iPhone, iPod Touch and iPad. However, PhoneGap also works in concert with the Sencha Framework, which is an open source tool used to create apps that look and feel native to iPhone, and other devicces, such as Android and Blackberry.
 6.
 7.
 8. IGN brings up cross-platform for easier access to their audience. PhoneGap, as quoted by them, highlighted that IGN liked how the cross-platform nature looked native on different platforms, and didn't consider anyone else. If true, it certainly saves time than native development.
